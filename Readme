@@ -1,0 +1,18 @@
+MowaySnap! 
+Robot Moway controlado desde Snap!
+
+Pasos a seguir:
+
+1.- Instalar Snap! o Snap4Arduino en tu ordenador. 
+
+2.- Instalar el software del robot Moway para Scratch2
+
+3.- Conectar el 'pincho' Usb de RF
+
+3.- Cargar en Snap! el archivo .xml de este repositorio, que contiene los bloques, arrastrando o importando.
+
+4.- Arrancar el programa de Moway para Scratch. Programa desde ahí el Moway con el cable USB. Darle a 'CONECTA MOWAY'
+
+5.- ¡A disfrutar con MowaySnap!
+
+Si necesitas ayuda, nos encontrarás en Twitter: @proyectonoise
